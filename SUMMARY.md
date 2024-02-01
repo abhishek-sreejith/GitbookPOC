@@ -1,5 +1,5 @@
 # Table of contents
 
 * [README](README.md)
-* [README2](README2.md)
+* [Readme2](README2.md)
   
